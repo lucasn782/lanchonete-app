@@ -1,0 +1,15 @@
+# Ignore Expo local state
+expo-shared/
+.expo/
+
+# Node dependencies
+node_modules/
+
+# Editor settings
+.vscode/
+.qodo/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

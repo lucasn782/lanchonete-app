@@ -1,0 +1,5 @@
+Add your app icons here:
+- icon.png (1024x1024)
+- adaptive-icon.png (1024x1024 with transparent bg)
+- splash.png (1242x2436 or similar)
+- favicon.png (48x48)
